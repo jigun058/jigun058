@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigun058&layout=compact&theme=radical)
 
-[![Solved.ac Profile](http://mazandi.herokuapp.com/api/mini?handle=jigun058&theme=dark)](https://solved.ac/profile/jigun058)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jigun058)](https://solved.ac/profile/jigun058)
