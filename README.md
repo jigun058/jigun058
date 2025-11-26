@@ -10,8 +10,8 @@
 
 <p>
   <a href="https://github.com/jigun058">
-    <img 
-      src="[https://github-readme-stats.vercel.app/api?username=jigun058&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=jigun058&show_icons=true&theme=default&hide_border=true&cache_seconds=3600)"
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=jigun058&show_icons=true&theme=default&hide_border=true&cache_seconds=3600"
       alt="TaeGwon's GitHub Stats"
     />
   </a>
