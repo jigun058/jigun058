@@ -1,4 +1,6 @@
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jigun058&show_icons=true&theme=default&hide_border=true)
 
 ## 👋 Hi there, I'm TaeGwon
 
