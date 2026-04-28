@@ -42,7 +42,7 @@ Backend developer based in Seoul, Republic of Korea
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jigun058&show_icons=true&theme=nord_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jigun058&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jigun058&theme=tokyonight" />
 
 </div>
