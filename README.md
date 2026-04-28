@@ -1,7 +1,58 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jigun058&show_icons=true&theme=default" height="180px" alt="GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigun058)](https://github.com/anuraghazra/github-readme-stats)
+### `Hi there, I'm TaeGwon` 👋
 
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jigun058&theme=warm" height="180px" alt="Solved.ac Profile" />
+Backend developer based in Seoul, Republic of Korea
+
+</div>
+
+---
+
+#### About
+
+- 🎓 Computer Science, **University of Seoul**
+- ⚙️ Building backend systems with **Java / Spring** and **Python / FastAPI**, deploying on **AWS**
+- 🛠️ Currently into distributed systems, developer tooling, and clean APIs
+- 📫 Reach me at **jigun058@gmail.com**
+
+#### Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Infra & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jigun058&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigun058&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+#### Algorithm
+ 
+<div align="center">
+  
+<a href="https://solved.ac/BAEKJOON_ID">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge.svg?boj=BAEKJOON_ID" />
+</a>
+
 </div>
