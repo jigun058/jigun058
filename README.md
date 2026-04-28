@@ -52,7 +52,7 @@ Backend developer based in Seoul, Republic of Korea
 <div align="center">
   
 <a href="https://solved.ac/jigun058">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge.svg?boj=jigun058" />
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jigun058" />
 </a>
 
 </div>
